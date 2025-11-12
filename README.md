@@ -18,30 +18,23 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-## USECASE DIAGRAM :
-![Screenshot 2025-09-01 105557](https://github.com/23003324/Lab-3-Railway-Reservation/assets/140035234/1321dc1e-e23e-42d2-b5cc-99cf07f5fca6)
+## USECASE:
+![usecase3](https://github.com/user-attachments/assets/70005d53-9700-46b7-ba5d-6bfbde51ae03)
 
+## CLASS DIAGRAM:
+![class3](https://github.com/user-attachments/assets/cd6d61ee-15f1-4613-bc29-f10b9b2f132c)
 
-## CLASS DIAGRAM :
-![Screenshot 2025-09-01 105623](https://github.com/23003324/Lab-3-Railway-Reservation/assets/140035234/2bd569a9-1bf1-4181-ac57-6721911f05bd)
+## SEQUENCE DIAGRAM:
+![sequence3](https://github.com/user-attachments/assets/aee78198-32f0-44d2-b350-bb8fde17eb76)
 
+## COMMUNICATION DIAGRAM:
+![comm3](https://github.com/user-attachments/assets/8625c1e8-f6d6-4654-8ed8-9effc7921561)
 
-## SEQUENCE DIAGRAM :
-![Screenshot 2025-09-01 105708](https://github.com/23003324/Lab-3-Railway-Reservation/assets/140035234/acea43f9-5600-4ac7-9f79-555b988efa55)
+## ACTIVITY DIAGRAM:
+![Activity3](https://github.com/user-attachments/assets/8f5d8269-46f5-49be-8640-5b28af8d7e61)
 
-
-## ACTIVITY DIAGRAM :
-![Screenshot 2025-09-01 105757](https://github.com/23003324/Lab-3-Railway-Reservation/assets/140035234/2831b97f-2c1e-434e-a692-95f36bf894c2)
-
-
-## COMMUNICATION DIAGRAM :
-![Screenshot 2025-09-01 105736](https://github.com/23003324/Lab-3-Railway-Reservation/assets/140035234/5b4c9410-730d-4fbf-b35b-9b75b4062f30)
-
-
-## PACKAGE DIAGRAM :
-![Screenshot 2025-09-01 105646](https://github.com/23003324/Lab-3-Railway-Reservation/assets/140035234/3d960d97-d8ae-4e39-a46a-2fcde627201e)
-
-
+## PACKAGE DIAGRAM:
+![package3](https://github.com/user-attachments/assets/e7befa7d-d61a-4142-8844-09414c25ef36)
 
 
 
